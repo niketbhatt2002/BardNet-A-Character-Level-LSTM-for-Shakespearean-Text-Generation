@@ -3,7 +3,7 @@
 
 ## 📜 Overview
 
-**BardNet** is a character-level text generation model powered by a Long Short-Term Memory (LSTM) network. Trained on the timeless works of **William Shakespeare**, this model captures the poetic rhythm, vocabulary, and structure of Elizabethan English to generate text in a similar style.
+**BardNet** is a character-level text generation model powered by a Long Short-Term Memory (LSTM) Machine Learning network. Trained on the timeless works of **William Shakespeare**, this model captures the poetic rhythm, vocabulary, and structure of Elizabethan English to generate text in a similar style.
 
 Whether you're a machine learning enthusiast or a literature lover, BardNet offers a fascinating blend of **deep learning** and **classic literature**.
 

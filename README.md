@@ -1,4 +1,3 @@
-
 # 🌟 BardNet: A Character-Level LSTM for Shakespearean Text Generation.
 
 ## 📜 Overview
